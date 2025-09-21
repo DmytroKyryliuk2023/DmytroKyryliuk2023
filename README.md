@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in C++](https://github.com/DmytroKyryliuk2023/dsa)
 - <b>Python</b>
   - [Machine Learning Models from Scratch](https://github.com/DmytroKyryliuk2023/ml-models-from-scratch)
   - [Machine Learning Projects with Scikit-learn](https://github.com/DmytroKyryliuk2023/ml-projects)
