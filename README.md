@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Machine Learning Models from Scratch](https://github.com/DmytroKyryliuk2023/ml-models-from-scratch)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Machine Learning Projects with Scikit-learn](https://github.com/DmytroKyryliuk2023/ml-projects)
 
 <h2>📄 Certifications:</h2>
 
