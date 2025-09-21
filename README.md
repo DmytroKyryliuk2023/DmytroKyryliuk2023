@@ -10,8 +10,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [My certificates](https://github.com/DmytroKyryliuk2023/certifications)
 
 <h2> 🤳 Connect with me:</h2>
 
