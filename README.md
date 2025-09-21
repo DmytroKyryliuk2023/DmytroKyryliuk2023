@@ -2,11 +2,15 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in C++](https://github.com/DmytroKyryliuk2023/dsa)
-- <b>Python</b>
-  - [Machine Learning Models from Scratch](https://github.com/DmytroKyryliuk2023/ml-models-from-scratch)
-  - [Machine Learning Projects with Scikit-learn](https://github.com/DmytroKyryliuk2023/ml-projects)
+- [Machine Learning Models from Scratch](https://github.com/DmytroKyryliuk2023/ml-models-from-scratch)
+- [Machine Learning Projects with Scikit-learn](https://github.com/DmytroKyryliuk2023/ml-projects)
+
+<h2>👨‍🎓 University Projects:</h2>
+
+- [Data Structures and Algorithms](https://github.com/DmytroKyryliuk2023/dsa)
+- [Graph Plotting Application](https://github.com/DmytroKyryliuk2023/Graph-Plotting-Application)
+- [Systems of Intelligent Data Analysis and Visualization](https://github.com/DmytroKyryliuk2023/Systems-of-Intelligent-Data-Analysis-and-Visualization)
+- [Mathematics and Statistics](https://github.com/DmytroKyryliuk2023/Mathematics-and-Statistics)
 
 <h2>📄 Certifications:</h2>
 
