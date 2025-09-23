@@ -22,8 +22,8 @@
 [<img align="left" alt="DmytroKyryliuk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DmytroKyryliuk | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-[leetcode]: https://leetcode.com/u/KyruliukDmytroNULP/
-[linkedin]: https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D1%8E%D0%BA-410091349/
+[leetcode]: https://leetcode.com/u/KyruliukDmytroNULP
+[linkedin]: https://www.linkedin.com/in/dmytro-kyryliuk-410091349
 [telegram]: https://t.me/kyryliukd
 
 <!--
