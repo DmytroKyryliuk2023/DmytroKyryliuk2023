@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - [Machine Learning Models from Scratch](https://github.com/DmytroKyryliuk2023/ml-models-from-scratch)
-- [Machine Learning Projects with Scikit-learn](https://github.com/DmytroKyryliuk2023/ml-projects)
+- [Machine Learning Projects](https://github.com/DmytroKyryliuk2023/ml-projects)
 
 <h2>🎓 University Projects:</h2>
 
