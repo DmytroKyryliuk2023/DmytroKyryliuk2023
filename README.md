@@ -7,8 +7,9 @@
 
 <h2>🎓 University Projects:</h2>
 
-- [Data Structures and Algorithms](https://github.com/DmytroKyryliuk2023/dsa)
+- [Gesture Recognition System](https://github.com/DmytroKyryliuk2023/smart-glove)
 - [Graph Plotting Application](https://github.com/DmytroKyryliuk2023/Graph-Plotting-Application)
+- [Data Structures and Algorithms](https://github.com/DmytroKyryliuk2023/dsa)
 - [Systems of Intelligent Data Analysis and Visualization](https://github.com/DmytroKyryliuk2023/Systems-of-Intelligent-Data-Analysis-and-Visualization)
 - [Mathematics and Statistics](https://github.com/DmytroKyryliuk2023/Mathematics-and-Statistics)
 
