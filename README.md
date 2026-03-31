@@ -8,8 +8,8 @@
 <h2>🎓 University Projects:</h2>
 
 - [Gesture Recognition System](https://github.com/DmytroKyryliuk2023/smart-glove)
-- [Medical Center API](https://github.com/DmytroKyryliuk2023/medical-center-api)
 - [Graph Plotting Application](https://github.com/DmytroKyryliuk2023/Graph-Plotting-Application)
+- [Medical Center API](https://github.com/DmytroKyryliuk2023/medical-center-api)
 - [Data Structures and Algorithms](https://github.com/DmytroKyryliuk2023/dsa)
 - [Systems of Intelligent Data Analysis and Visualization](https://github.com/DmytroKyryliuk2023/Systems-of-Intelligent-Data-Analysis-and-Visualization)
 - [Mathematics and Statistics](https://github.com/DmytroKyryliuk2023/Mathematics-and-Statistics)
